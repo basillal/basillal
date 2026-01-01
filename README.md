@@ -1,17 +1,25 @@
-<h1 align="center">Hi, I'm Melbin 👋</h1>
+<h1 align="center">Hi, I'm Basil Lal 👋</h1>
 
 <p align="center">
-  Passionate Development Engineer focused on clean and scalable software
+  Passionate Development Engineer focused on building clean, efficient, and scalable software.
 </p>
 
 ---
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melbin726&show_icons=true&hide_title=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true"
+    alt="GitHub Stats"
+  />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melbin726" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -23,12 +31,15 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind,python,django,java,mongodb,mysql,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,mongodb,mysql,git,linux,nginx" />
 </p>
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melbin726&row=1&column=6" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&column=5"
+    alt="GitHub Trophies"
+  />
 </p>
